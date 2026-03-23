@@ -1,14 +1,22 @@
 # 🚀 Open Source Technology Microproject
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![Made With](https://img.shields.io/badge/Made%20With-Git%20%26%20GitHub-orange)
+
+---
+
 ## 👨‍🎓 About Me
 Hello! 👋  
-I am a student of *Government Polytechnic, Pune* 🎓  
-Currently pursuing a *Diploma in Computer Science* 💻  
+I am *Mrunmai Nalawade*  
+🎓 Student at *Government Polytechnic, Pune*  
+💻 Diploma in *Computer Science*
 
 ---
 
 ## 📌 Project Description
-This microproject is created to learn and implement *Git and GitHub* for version control and open-source contribution.
+This microproject demonstrates the use of *Git and GitHub* for version control and open-source development.  
+It shows how to create a repository, manage files, and maintain project history.
 
 ---
 
@@ -16,7 +24,15 @@ This microproject is created to learn and implement *Git and GitHub* for version
 - Learn Git commands  
 - Understand GitHub workflow  
 - Create and manage repositories  
-- Develop a professional README  
+- Build a professional README  
+
+---
+
+## ✨ Features
+- Version control using Git  
+- Project hosted on GitHub  
+- Structured documentation  
+- Easy to understand workflow  
 
 ---
 
@@ -28,18 +44,8 @@ This microproject is created to learn and implement *Git and GitHub* for version
 
 ---
 
-## ⚙️ How to Run Project
+# ⚙️ Installation Guide
 
-1. Download or clone the repository  
-2. Open the folder  
-3. Open index.html in browser  
-
----
-
-## 🔄 Git Commands Used
-
+## 🔹 Step 1: Clone the Repository
 ```bash
-git init
-git add 
-git commit -m "Initial commit"
-git push
+git clone https://github.com/your-username/your-repo.git
